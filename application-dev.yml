@@ -3,5 +3,5 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/dev?useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true&allowMultiQueries=true&useSSL=false
     driver-class-name: com.mysql.jdbc.Driver
-    username: dev
-    password: dev123456
+    userName: dev
+    passWord: dev123456
