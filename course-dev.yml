@@ -1,0 +1,5 @@
+eureka:
+  client:
+    service-url:
+      #服务注册中心的配置内容，指定服务注册中心的Url
+      defaultZone: http://server1:20001/eureka/
